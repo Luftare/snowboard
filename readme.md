@@ -1,3 +1,3 @@
 # Snowboard game
 
-https://luftare.github.io/snowboard/
+Demo: https://luftare.github.io/snowboard/
