@@ -6,6 +6,7 @@
 
 canvas {
   height: 100vh;
+  width: 100vw;
   vertical-align: top;
   background-color: white;
 }
