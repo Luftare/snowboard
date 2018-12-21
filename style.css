@@ -5,6 +5,7 @@
 }
 
 canvas {
+  height: 100vh;
   vertical-align: top;
   background-color: white;
 }
