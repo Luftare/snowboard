@@ -213,3 +213,7 @@ function onNewBuffer(buffer, id) {
     players.push(player);
   }
 }
+
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('service-worker.js');
+}
