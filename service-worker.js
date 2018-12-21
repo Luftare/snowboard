@@ -1,4 +1,4 @@
-const CACHE = 'snowboard-cache-v1';
+const CACHE = 'snowboard-cache-v2';
 
 self.addEventListener('fetch', function(event) {
   event.respondWith(
